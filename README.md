@@ -1,6 +1,23 @@
-# Task-Management-App
+# 📝 Task Management App
 
-This is a React + Vite project for managing tasks.
+A responsive and interactive task management web app built with **React** and **Vite**. It allows users to create, edit, and manage daily tasks with a sleek UI and smooth workflow.
+
+
+## 📦 Features
+
+- ✅ Add, update, and delete tasks
+- 📅 Due date support and status tracking
+- 🔄 Real-time updates using React state
+- 🌙 Dark mode (optional enhancement)
+- 🔗 Deployed on **GitHub Pages** using `vite` + `gh-pages`
+
+## 🧱 Tech Stack
+
+- **Frontend**: React, Vite
+- **Styling**: Tailwind CSS
+- **Routing**: React Router (HashRouter for GitHub Pages)
+- **Deployment**: GitHub Pages
+
 
 ## Project Setup
 
